@@ -1,3 +1,2 @@
-Texto aleatório para atrapalhar o commit
-Mais um pouco de texto pra atrapalhar mais
-E só mais uma linha para garantir.
+Esse é um novo texto para dar erro no github.
+Obrigada github por conflitos.
