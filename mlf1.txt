@@ -1,2 +1,3 @@
-Boa noite caros colegas
-Boa noite, colega!
+Texto aleatório para atrapalhar o commit
+Mais um pouco de texto pra atrapalhar mais
+E só mais uma linha para garantir.
