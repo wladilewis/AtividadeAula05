@@ -1,3 +1,7 @@
 Juntos vamos mais longe
+<<<<<<< HEAD
 principalmente usando o git
 
+=======
+A menos que o Git impeça
+>>>>>>> d19f57e65d1ad8b3f8f3bacdb3efa73fcf0eb73f

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testando conflito
 
+=======
+Esse é um novo texto para dar erro no github.
+Obrigada github por conflitos.
+>>>>>>> d19f57e65d1ad8b3f8f3bacdb3efa73fcf0eb73f
